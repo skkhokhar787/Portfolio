@@ -57,7 +57,7 @@
       "name": "FilmPad",
       "description": "A modern movie discovery web application with a clean UI for browsing and exploring films.",
       "technologies": ["React", "Tailwind CSS", "TanStack React Query"],
-      "liveUrl": "https://filmpad-henna.vercel.app/",
+      "liveUrl": "http://filmpad.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/FilmPad",
       "category": ["React", "API"]
     },
@@ -66,7 +66,7 @@
       "name": "Nexora AI",
       "description": "An AI chatbot application powered by the Groq API, offering real-time intelligent conversations.",
       "technologies": ["React", "Firebase", "Groq API"],
-      "liveUrl": "https://nexora-ai-9ebaa.web.app/",
+      "liveUrl": "https://nexora.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/Nexora-AI",
       "category": ["React", "Firebase", "AI"]
     },
@@ -75,7 +75,7 @@
       "name": "GeoSphare",
       "description": "A country exploration application using external country data and API integration to browse world nations.",
       "technologies": ["React", "Tailwind CSS", "REST Countries API"],
-      "liveUrl": "https://geosphare-flame.vercel.app/",
+      "liveUrl": "https://geosphare.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/GeoSphare",
       "category": ["React", "API"]
     },
@@ -84,7 +84,7 @@
       "name": "Vidify",
       "description": "A modern video-focused web application built with React featuring a clean and engaging interface.",
       "technologies": ["React", "Tailwind CSS"],
-      "liveUrl": "https://vidify-umber.vercel.app/",
+      "liveUrl": "https://vidify.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/Vidify",
       "category": ["React"]
     },
@@ -93,7 +93,7 @@
       "name": "Dragon Z Verse",
       "description": "An interactive Dragon Ball themed React web application showcasing character data and lore.",
       "technologies": ["React", "CSS", "API"],
-      "liveUrl": "https://dragon-z-verse.vercel.app/",
+      "liveUrl": "https://dragonz.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/DragonZVerse",
       "category": ["React", "API"]
     },
@@ -102,7 +102,7 @@
       "name": "MDST",
       "description": "A React-based web application demonstrating modern frontend development patterns and component architecture.",
       "technologies": ["React", "Tailwind CSS"],
-      "liveUrl": "https://mdst-react.vercel.app/",
+      "liveUrl": "https://mdst.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/MDST-React",
       "category": ["React"]
     },
@@ -111,7 +111,7 @@
       "name": "Currency Converter",
       "description": "A real-time currency conversion application using live exchange rate data and React.",
       "technologies": ["React", "Exchange Rate API"],
-      "liveUrl": "https://currency-converter-react-sand.vercel.app/",
+      "liveUrl": "https://currencyconverter.sameermasih.com/",
       "githubUrl": "https://github.com/skkhokhar787/Currency-Converter-React",
       "category": ["React", "API"]
     },
@@ -120,7 +120,7 @@
       "name": "Cine Premium YTS",
       "description": "A movie browsing application using movie API data with a premium cinema-inspired design.",
       "technologies": ["React", "YTS API", "Tailwind CSS"],
-      "liveUrl": "https://cine-premium-yts.vercel.app/",
+      "liveUrl": "https://cine.sameermasih.com",
       "githubUrl": "https://github.com/skkhokhar787/CinePremium--YTS-",
       "category": ["React", "API"]
     },
@@ -129,7 +129,7 @@
       "name": "Weather App",
       "description": "A weather application delivering real-time weather data via API with a clean, minimal interface.",
       "technologies": ["React", "OpenWeather API"],
-      "liveUrl": "https://weather-app-eight-alpha-71.vercel.app/",
+      "liveUrl": "https://weatherapp.sameermasih.com",
       "githubUrl": "https://github.com/skkhokhar787/Weather-App",
       "category": ["React", "API"]
     },
@@ -138,7 +138,7 @@
       "name": "Keep Notes",
       "description": "A notes application with user authentication and Firebase-based data storage for persistent note-keeping.",
       "technologies": ["React", "Firebase", "Firestore", "Firebase Auth"],
-      "liveUrl": "https://keep-notes-df3dd.web.app/",
+      "liveUrl": "http://keepnotes.sameermasih.com",
       "githubUrl": "https://github.com/skkhokhar787/Keep-Notes",
       "category": ["React", "Firebase"]
     }
